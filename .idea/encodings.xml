@@ -10,6 +10,7 @@
     <file url="file://$PROJECT_DIR$/HelloFeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HelloHystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HelloRibbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HelloZipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HelloZuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HystrixDashboard" charset="UTF-8" />
   </component>

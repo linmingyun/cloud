@@ -9,11 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @SpringBootApplication
 public class ConfigclientApplication {
-	@Value("${foo}")
-	String foo;
+	@Value("${RNG}")
+	String rng;
 	@RequestMapping(value = "/hi")
 	public String hi(){
-		return foo;
+		return rng;
 	}
 
 	public static void main(String[] args) {

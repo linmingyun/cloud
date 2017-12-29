@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloHystrix/HelloHystrix.iml" filepath="$PROJECT_DIR$/HelloHystrix/HelloHystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloRabbitMQ/HelloRabbitMQ.iml" filepath="$PROJECT_DIR$/HelloRabbitMQ/HelloRabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloRibbon/HelloRibbon.iml" filepath="$PROJECT_DIR$/HelloRibbon/HelloRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloZipkin/HelloZipkin.iml" filepath="$PROJECT_DIR$/HelloZipkin/HelloZipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloZuul/HelloZuul.iml" filepath="$PROJECT_DIR$/HelloZuul/HelloZuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/HystrixDashboard/HystrixDashboard.iml" filepath="$PROJECT_DIR$/HystrixDashboard/HystrixDashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
