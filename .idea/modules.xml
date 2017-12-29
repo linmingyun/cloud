@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConfigClient/ConfigClient.iml" filepath="$PROJECT_DIR$/ConfigClient/ConfigClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient/EurekaClient.iml" filepath="$PROJECT_DIR$/EurekaClient/EurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient2/EurekaClient2.iml" filepath="$PROJECT_DIR$/EurekaClient2/EurekaClient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloBus/HelloBus.iml" filepath="$PROJECT_DIR$/HelloBus/HelloBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloFeign/HelloFeign.iml" filepath="$PROJECT_DIR$/HelloFeign/HelloFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloHystrix/HelloHystrix.iml" filepath="$PROJECT_DIR$/HelloHystrix/HelloHystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloRabbitMQ/HelloRabbitMQ.iml" filepath="$PROJECT_DIR$/HelloRabbitMQ/HelloRabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloRibbon/HelloRibbon.iml" filepath="$PROJECT_DIR$/HelloRibbon/HelloRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloZuul/HelloZuul.iml" filepath="$PROJECT_DIR$/HelloZuul/HelloZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HystrixDashboard/HystrixDashboard.iml" filepath="$PROJECT_DIR$/HystrixDashboard/HystrixDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
+    </modules>
+  </component>
+</project>

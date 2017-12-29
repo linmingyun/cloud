@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ConfigClient" />
+        <module name="ConfigServer" />
+        <module name="EurekaClient" />
+        <module name="EurekaClient2" />
+        <module name="EurekaServer" />
+        <module name="HelloBus" />
+        <module name="HelloFeign" />
+        <module name="HelloHystrix" />
+        <module name="HelloRabbitMQ" />
+        <module name="HelloRibbon" />
+        <module name="HelloZuul" />
+        <module name="HystrixDashboard" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ConfigClient" target="1.8" />
+      <module name="ConfigServer" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="EurekaClient" target="1.8" />
+      <module name="EurekaClient2" target="1.8" />
+      <module name="EurekaServer" target="1.8" />
+      <module name="HelloBus" target="1.8" />
+      <module name="HelloFeign" target="1.8" />
+      <module name="HelloHystrix" target="1.8" />
+      <module name="HelloRabbitMQ" target="1.5" />
+      <module name="HelloRibbon" target="1.8" />
+      <module name="HelloZuul" target="1.8" />
+      <module name="HystrixDashboard" target="1.8" />
+      <module name="SpringCloud" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

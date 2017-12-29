@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaClient/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloRibbon/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaClient2/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloHystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/HystrixDashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloZuul/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigClient/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloBus/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
