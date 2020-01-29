@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by Administrator on 2017/12/27.
  */
 @RestController
-public class HelloControler {
+public class HelloController {
 
     @Autowired
     HelloService helloService;
