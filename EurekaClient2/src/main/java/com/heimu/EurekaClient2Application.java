@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
-public class Eurekaclient2Application {
+public class EurekaClient2Application {
 
 	@Value("${server.port}")
 	String port;
@@ -19,6 +19,6 @@ public class Eurekaclient2Application {
 	}
 
 	public static void main(String[] args) {
-		SpringApplication.run(Eurekaclient2Application.class, args);
+		SpringApplication.run(EurekaClient2Application.class, args);
 	}
 }

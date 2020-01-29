@@ -16,7 +16,7 @@ import java.util.List;
 //@EnableEurekaClient
 //@EnableDiscoveryClient
 @SpringBootApplication
-public class EurekaclientApplication {
+public class EurekaClientApplication {
 
 	@Autowired
 	private DiscoveryClient discoveryClient;
@@ -60,6 +60,6 @@ public class EurekaclientApplication {
 	}
 
 	public static void main(String[] args) {
-		SpringApplication.run(EurekaclientApplication.class, args);
+		SpringApplication.run(EurekaClientApplication.class, args);
 	}
 }
