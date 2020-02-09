@@ -1,9 +1,9 @@
 package com.heimu.zipkinone;
 
+import brave.sampler.Sampler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.sleuth.sampler.AlwaysSampler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -12,6 +12,13 @@ import org.springframework.web.client.RestTemplate;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * 下载Zipkin Server
+ * https://dl.bintray.com/openzipkin/maven/io/zipkin/java/zipkin-server/
+ * java -jar zipkin-server-2.12.8-exec.jar
+ * http://localhost:9411/
+ * http://localhost:8989/miya
+ */
 @RestController
 @SpringBootApplication
 public class ZipkinoneApplication {
@@ -39,8 +46,8 @@ public class ZipkinoneApplication {
 	}
 
 	@Bean
-	public AlwaysSampler defaultSampler(){
-		return new AlwaysSampler();
+	public Sampler defaultSampler() {
+		return Sampler.ALWAYS_SAMPLE;
 	}
 
 	public static void main(String[] args) {
